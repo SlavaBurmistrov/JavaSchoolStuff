@@ -1,0 +1,19 @@
+Output#1:
+Original:  29  87  97  81  35  89  30  50  53  55  
+
+Largest value is at index: 2
+
+Sorted:    29  30  35  50  53  55  81  87  89  97  
+
+50 is on the list
+BUILD SUCCESSFUL (total time: 5 seconds)
+
+Output#2:
+Original:  90  83  51  60  10  35  39  50  26  49  27  98  93  27  
+
+Largest value is at index: 11
+
+Sorted:    10  26  27  27  35  39  49  50  51  60  83  90  93  98  
+
+25 is not on the list
+BUILD SUCCESSFUL (total time: 7 seconds)
